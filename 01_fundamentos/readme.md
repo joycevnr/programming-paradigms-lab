@@ -34,7 +34,6 @@ Haskell não usa loops `for`/`while` tradicionais. O controle é feito via recur
 
 **1. Diferença de Áreas (Tipos Básicos)**
  Escreva uma função que receba os raios de dois círculos e retorne a diferença entre suas áreas.
-> *Dica: Use `Double` para o tipo e `pi` para o cálculo.*
 
 **2. Operadores Lógicos (If-Then-Else)**
  Escreva uma função que receba três números e retorne o maior deles usando `if-then-else` aninhado.
