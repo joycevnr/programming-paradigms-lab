@@ -17,11 +17,11 @@ O foco aqui é mudar a chave do pensamento imperativo para o paradigma funcional
 
 ---
 
-## Como rodar e testar
-- Haskell pode ser compilado ou interpretado.
+## Como rodar: Haskell
+O Haskell pode ser compilado ou interpretado. Abaixo estão as formas mais comuns de utilizá-lo.
 
 ### 1. GHCi (Modo Interativo)
-O **GHCi** funciona como um "playground".  Carrego o arquivo, testo uma função, altero o código, recarrego e testa de novo.
+O **GHCi** funciona como um "playground". Carrego o arquivo, testo uma função, altero o código, recarrego e testo de novo.
 
 1.  Abra o terminal na pasta do código.
 2.  Carregue o arquivo: `ghci nome_arquivo.hs`
@@ -52,14 +52,14 @@ ghc nome_arquivo.hs
 # Após compilar, rode o arquivo gerado:
 ./nome_arquivo
 ```
+## Como rodar: Prolog
+-----
 
 ## 🇺🇸 English Version
+Functional Programming Studies (UFCG)
+This repository documents my coursework for the Programming Language Paradigms class at UFCG.
 
-### Functional Programming Studies (UFCG)
-
-This repository documents my coursework for the **Programming Language Paradigms** class at **UFCG**.
-
-The focus is on the **Functional Paradigm**, exploring concepts like immutability and higher-order functions through **Haskell** and other functional languages covered in the curriculum.
+The focus is on the Functional Paradigm, exploring concepts like immutability and higher-order functions through Haskell and other functional languages covered in the curriculum.
 
 ### How to Run (Haskell)
 * **Interactive:** `ghci filename.hs` (Use `:r` to reload).
