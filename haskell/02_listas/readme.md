@@ -44,11 +44,11 @@ Este módulo foca na estrutura de dados fundamental do Haskell (Listas) e no mec
 
 **1. Avaliação de Listas**
   Sem rodar o código, determine qual o resultado ou o tipo das expressões abaixo (anote como comentário no código):
-* `[2, 4..9]`
-* `[10..1]`
-* `length [2,3]` vs `length [[2,3]]`
+* `[2, 4..9]` --> [1, 4, 6, 8]
+* `[10..1]` --> []
+* `length [2,3]` vs `length [[2,3]]` --> 2 e 1
 
-**2. Dobro e Quadrado (Compreensão)**
+**2. Dobro e Quadrado**
   Defina uma função que gere uma lista com os quadrados dos elementos pares de 1 a 20.
 
 **3. Rotação de Lista**
