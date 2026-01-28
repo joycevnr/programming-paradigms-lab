@@ -11,3 +11,10 @@ palavrasPlural (x:xs)
 
 main = do 
     print (palavrasPlural ["gatos", "cachorro", "pássaros", "elefante", "leões"])
+
+
+-- --- IGNORE ---
+somaSimetricos :: [Int] -> Int
+somaSimetricos [] = 0
+somaSimetricos (x:xs) = x + last xs + somaSimetricos (init xs)
+-- --- IGNORE ---
