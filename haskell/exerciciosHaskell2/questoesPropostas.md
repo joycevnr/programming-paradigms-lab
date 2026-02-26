@@ -17,3 +17,13 @@ Defina uma função que recebe uma lista de inteiros e retorna uma lista com as 
 Defina uma função que recebe uma lista de listas e retorna a lista dos elementos unificados.
 
 Defina uma função que recebe uma lista e um inteiro n e retorna uma tupla de duas listas, os n primeiros elementos e o resto.
+
+Escreve uma função chamada `paresEntre` que recebe dois números inteiros, `a` e `b`, e retorna uma lista contendo todos os números pares dentro do intervalo fechado `[a, b]`.
+
+Escreve uma função chamada `iniciais` que recebe uma lista de Strings (palavras) e retorna uma única String contendo apenas a primeira letra de cada palavra.
+
+Escreve a função `logBaseInt` que calcula o logaritmo de um número `n` na base `b` (ou seja, quantas vezes `n` pode ser dividido por `b`), retornando um resultado inteiro. Considera que a divisão é inteira.
+
+* **Regra:** Se `n` for menor que a base `b`, o resultado é 0.
+
+Escreve uma função `sucessivos` que recebe dois valores (`v1`, `v2`) e uma lista. A função deve retornar `True` se `v1` aparecer imediatamente antes de `v2` na lista, em qualquer posição.
