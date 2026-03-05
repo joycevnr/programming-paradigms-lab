@@ -4,7 +4,7 @@
 
 ![Haskell](https://img.shields.io/badge/Haskell-5e5086?style=for-the-badge&logo=haskell&logoColor=white)
 ![Prolog](https://img.shields.io/badge/Prolog-A93226?style=for-the-badge&logo=prolog&logoColor=white)
-![UFCG](https://img.shields.io/badge/UFCG-2024.2-blue?style=for-the-badge)
+![UFCG](https://img.shields.io/badge/UFCG-2025.2-blue?style=for-the-badge)
 ![Status](https://img.shields.io/badge/Paradigma-Funcional-purple?style=for-the-badge)
 
 </div>
