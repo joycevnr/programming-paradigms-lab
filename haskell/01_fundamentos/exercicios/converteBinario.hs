@@ -1,1 +1,0 @@
--- Defina uma função que converte um número decimal no seu respectivo binário.

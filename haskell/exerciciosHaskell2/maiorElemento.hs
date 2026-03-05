@@ -5,8 +5,6 @@ maiorElemento (x:xs) = max x (maiorElemento xs)
 main = do 
     print (maiorElemento [1,5,3,9,2])
 
---largest element
-
 --1. Usando guards:
 maiorElemento :: [Int] -> Int
 maiorElemento [x] = x

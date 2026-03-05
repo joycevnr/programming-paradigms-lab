@@ -13,5 +13,5 @@ main = do
 
 -- splitAt :: [a] -> Int -> ([a], [a])
 -- splitAt xs n = (take n xs, drop n xs)
--- A função splitAt já está definida na biblioteca padrão do Haskell e faz exatamente o que
+-- SplitAt está definida na biblioteca padrão do Haskell e faz o que
 -- a função tuplas faz. Ela divide uma lista em duas partes com base no índice fornecido.

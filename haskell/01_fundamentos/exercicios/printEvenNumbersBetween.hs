@@ -9,8 +9,3 @@ printEvenNumbersBetween x y = [z | z <- [x..y], even z]
 main :: IO()
 main = do
     print (printEvenNumbersBetween 1 10)
-
--- Português	Inglês	Contexto
--- número par	even	matemática
--- par de sapatos	pair	coisas em dupla
--- pessoas do mesmo nível	peer	pessoas

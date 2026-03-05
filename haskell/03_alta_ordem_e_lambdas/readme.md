@@ -37,9 +37,8 @@ Este módulo aborda o poder de abstração do Haskell, permitindo tratar funçõ
 
 **3. Aplicação Dupla**
  Implemente a função `applyTwice` que recebe uma função `f` e um valor `x`, e aplica a função duas vezes ao valor: `f (f x)`.
-* Teste com: `applyTwice (+3) 10` (deve retornar 16).
 
-**4. Quadrados dos Pares (Combo)**
+**4. Quadrados dos Pares**
 Usando `map`, `filter` e lambdas (ou composição), crie uma expressão que, dada a lista `[1..20]`:
 1. Filtre apenas os números pares.
 2. Retorne o quadrado desses números.
